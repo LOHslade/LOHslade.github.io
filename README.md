@@ -1,5 +1,12 @@
-## 슬레닷컴 👋
+# 슬레닷컴 👋
 
+## 영가브
+- [공략] (https://LOHsalde.github.io/tip.html)
+- [캐릭터] (https://LOHslade.github.io/diary.html)
+
+## 기타
+- [한마디] (https://LOHslade.github.io/diary.html)
+- [길드] (https://LOHslade.github.io/guild.html)
 <!--
 **LOHslade/LOHslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
