@@ -1,4 +1,4 @@
-## Hi there 👋
+## 슬레닷컴 👋
 
 <!--
 **LOHslade/LOHslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
