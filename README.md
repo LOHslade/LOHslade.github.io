@@ -1,7 +1,7 @@
 # 슬레닷컴 beta
 
 ## 영가브
-- [공략](https://LOHsalde.github.io/tip.html)
+- [공략](https://LOHslade.github.io/tip.html)
 - [캐릭터](https://LOHslade.github.io/character.html)
 
 ## 기타
