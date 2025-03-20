@@ -43,6 +43,7 @@
 - [캐릭터](https://LOHslade.github.io/character)
 
 ## 기타
-- [한마디](https://LOHslade.github.io/diary)
+- [슬레이드](https://LOHslade.github.io/diary)
 - [길드](https://LOHslade.github.io/guild)
+- [방명록](https://LOHslade.github.io/contact)
 - [후원](https://LOHslade.github.io/donate)
