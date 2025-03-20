@@ -1,5 +1,7 @@
 # 슬레닷컴 beta
 
+### 쿠폰 사용 -> XHPIP FJQDW (+카톡 친추 쿠폰 받으세요)
+
 ## ✅ 숙제 체크
 
 <form>
@@ -37,6 +39,7 @@
 
 ## 영가브
 - [공략](https://LOHslade.github.io/tip.md)
+- [디노 요약](https://LOHslade.github.io/director.md)
 - [캐릭터](https://LOHslade.github.io/character.md)
 
 ## 기타
