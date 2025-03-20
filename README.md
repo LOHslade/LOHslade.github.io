@@ -1,6 +1,6 @@
 # 슬레닷컴 beta
 
-### 쿠폰 사용 -> XHPIP FJQDW (+카톡 친추 쿠폰 받으세요)
+### [쿠폰 사용](https://legendofheroes-fow.com/KR/coupon?v=KR) -> XHPIP FJQDW (+카톡 친추 쿠폰 받으세요)
 
 ## ✅ 숙제 체크
 
