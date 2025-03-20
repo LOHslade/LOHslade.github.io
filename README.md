@@ -38,11 +38,11 @@
 
 
 ## 영가브
-- [공략](https://LOHslade.github.io/tip.md)
-- [디노 요약](https://LOHslade.github.io/director.md)
-- [캐릭터](https://LOHslade.github.io/character.md)
+- [공략](https://LOHslade.github.io/tip)
+- [디노 요약](https://LOHslade.github.io/director)
+- [캐릭터](https://LOHslade.github.io/character)
 
 ## 기타
-- [한마디](https://LOHslade.github.io/diary.md)
-- [길드](https://LOHslade.github.io/guild.md)
-- [후원](https://LOHslade.github.io/donate.md)
+- [한마디](https://LOHslade.github.io/diary)
+- [길드](https://LOHslade.github.io/guild)
+- [후원](https://LOHslade.github.io/donate)
