@@ -8,8 +8,8 @@
 - 이둔이 마나가 꽉차면 벼락떨어뜨리는데 이게 가하는 피해량 50% 감소 디버프 거는거라 휘리로 풀어주고, 레벨 오르면 아프늬까 오레시아로 무적
 
 # 초보자 가이드
-- [기본 가이드] (https://LOHslade.github.io/tip1.md)
-- [주인공덱 가이드] (https://LOHslade.github.io/tip2.md)
+- [기본 가이드](https://LOHslade.github.io/tip1)
+- [주인공덱 가이드](https://LOHslade.github.io/tip2)
 
 # 시간의 균열 7,8단계 꿀팁
 - 몹들을 잡다가 저장 후 우리 파티원을 컨디션 쌩쌩한 애들로 교체해서 다시 도전이 가능!
