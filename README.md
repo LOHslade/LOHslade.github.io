@@ -9,7 +9,7 @@
   <label for="task1">전장 5판, 동굴 소탕, 스태미나 사용</label><br>
 
   <input type="checkbox" id="task2" onchange="saveCheckboxState('task2')">
-  <label for="task2">경험치 던전, 금화 던전, 광석 던전, 악세 던전</label><br>
+  <label for="task2">경험치 던전, 금화 던전, 광석 던전, 악세 던전, 유물 던전</label><br>
 
   <input type="checkbox" id="task3" onchange="saveCheckboxState('task3')">
   <label for="task3">친구 포인트, 길드 포인트, 일일 무료 소환, </label><br>
