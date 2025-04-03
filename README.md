@@ -1,6 +1,6 @@
 # 슬레닷컴 beta
 
-### [쿠폰 사용](https://legendofheroes-fow.com/KR/coupon?v=KR) -> XHPIP FJQDW VDPPL ONYKA CHRIS (+카톡 친추 쿠폰 받으세요)
+### [쿠폰 사용](https://legendofheroes-fow.com/KR/coupon?v=KR) -> XHPIP FJQDW VDPPL ONYKA CHRIS YKGFM (+카톡 친추 쿠폰 받으세요)
 
 ## ✅ 숙제 체크
 
@@ -39,6 +39,7 @@
 
 ## 영가브
 - [공략](https://LOHslade.github.io/tip)
+- [유물](https://LOHslade.github.io/relic)
 - [디노 요약](https://LOHslade.github.io/director)
 - [캐릭터](https://LOHslade.github.io/character)
 
